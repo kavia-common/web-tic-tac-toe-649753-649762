@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/web-tic-tac-toe-649753-649762/tic_tac_toe_frontend"
+}
